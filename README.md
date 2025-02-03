@@ -59,6 +59,7 @@ cat ~/.git-credentials
 rm ~/.git-credentials
 ```
 
+
 check status on whichc branch you are :
 PS E:\github-trainning\inventyv-github-prac> git branch
   alpha
@@ -131,8 +132,5 @@ The Git branching structure is visualized using [Learn Git Branching](https://le
    git checkout main
    git merge <branch-name>
    ```
-
-# pull request 
-
 
 
