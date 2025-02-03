@@ -59,15 +59,6 @@ cat ~/.git-credentials
 rm ~/.git-credentials
 ```
 
-First, Clone the repository which you have created .
-check status 
-PS E:\github-trainning\inventyv-github-prac> git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-
-
 
 check status on whichc branch you are :
 PS E:\github-trainning\inventyv-github-prac> git branch
@@ -141,6 +132,5 @@ The Git branching structure is visualized using [Learn Git Branching](https://le
    git checkout main
    git merge <branch-name>
    ```
-
 
 
